@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">submission</string>
+    <string name="your_score">Your Score: %1$d</string>
+    <string name="left_time">Left Time: %1$d</string>
+    <string name="tap_me">Tap Me</string>
+
+    <string name="gameOverMessage">Time Up! Your Score was: %1$d</string>
+    <string name="about">about</string>
+    <string name="aboutMessage">Submission MamiKos Camp 2020</string>
+</resources>
